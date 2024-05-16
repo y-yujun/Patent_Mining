@@ -1,0 +1,450 @@
+Bergen
+Brayton
+Cheung
+El Ghaoui
+Gustafson
+Howe
+Keutzer
+Lee
+Mei
+Muller
+Oldham
+Rabaey
+Vincentelli
+Susskind
+Varaiya
+White
+Anantharam
+Bokor
+Budinger
+Derenzo
+Graham
+Hodges
+Keller
+Lau
+Lieberman
+Morgan
+Nikolic
+Pister
+Sanders
+Spanos
+Turin
+Walrand
+Wong
+Fateman
+Feldman
+Forsyth
+Franklin
+Garcia
+Goldberg
+Harrison
+Harvey
+Hearst
+Hellerstein
+Henzinger
+Necula
+Newton
+O'Brien
+Papadimitriou
+Patterson
+Shewchuk
+Sinclair
+Smith
+Sturmfels
+Stoica
+Trevisan
+Brewer
+Canny
+Clancy
+Culler
+Demmel
+Dey
+Hilfinger
+Jordan
+Joseph
+Kahan
+Karp
+Tygar
+Vazirani
+Wagner
+Wawrzynek
+Wilensky
+Yelick
+Aiken
+Barsky
+Berlekamp
+Blum
+Bodik
+Rao
+Rowe
+Russell
+Séquin
+Sequin
+Bajcsy
+Bartlett
+Kubiatowicz
+Landay
+Malik
+Mankoff
+Myers
+Katz
+Ruzena Bajcsy
+Brian A. Barsky
+Peter Bartlett
+Elwyn R. Berlekamp
+Manuel Blum
+Ras Bodik
+Eric Brewer
+John F. Canny
+Michael J. Clancy
+David E. Culler
+James Demmel
+Anind Dey
+Richard J. Fateman
+Jerome A. Feldman
+David Forsyth
+Michael Franklin
+Dan Garcia
+Ken Goldberg
+Susan L. Graham
+Michael A. Harrison
+Brian K. Harvey
+Marti Hearst
+Joseph M. Hellerstein
+Paul N. Hilfinger
+Michael Jordan
+Anthony D. Joseph
+William M. Kahan
+Richard M. Karp
+Randy H. Katz
+Daniel Klein
+
+John D. Kubiatowicz
+Jitendra Malik
+Jennifer Mankoff
+Gene Myers
+George Necula
+James O'Brien
+Christos Papadimitriou
+Beresford N. Parlett
+David A. Patterson
+Satish Rao
+Stuart J. Russell
+Carlo H. Séquin
+Scott Shenker
+Jonathan Shewchuk
+Alistair Sinclair
+Alan J. Smith
+Ion Stoica
+Bernd Sturmfels
+Luca Trevisan
+Doug Tygar
+Umesh Vazirani
+David Wagner
+John Wawrzynek
+Robert Wilensky
+Katherine A. Yelick
+Lotfi A. Zadeh
+Maneesh Agrawala
+Minos Garofalakis
+Lior Pachter
+Vern Paxson
+Timothy Roscoe
+Koushik Sen
+Krste Asanović
+Trevor Darrell
+Thomas Griffiths
+Elchanan Mossel
+Horst Simon
+Dawn Song
+Yun S. Song
+Pieter Abbeel
+Ravi Ramamoorthi
+Armando Fox
+Björn Hartmann
+Phillip Colella
+Sylvia Ratnasamy
+Jonathan Bachrach
+Amir Kamil
+Tapan S. Parikh
+Eric Paulos
+Prasad Raghavendra
+Alexei (Alyosha) Efros
+Benjamin Recht
+Nir Yosef
+David Allstot
+Elad Alon
+Venkat Anantharam
+Murat Arcak
+Ana Claudia Arias
+David T. Attwood
+Babak Ayazifar
+Alexandre Bayen
+Jeffrey Bokor
+Bernhard Boser
+Robert K. Brayton
+Robert W. Brodersen
+Thomas F. Budinger
+Jose M. Carmena
+Constance Chang-Hasnain
+Nathan W. Cheung
+Alessandro Chiesa
+Leon O. Chua
+John Chuang
+Steven Conolly
+Thomas Courtade
+John DeNero
+Anca Dragan
+Laurent El Ghaoui
+Ronald S. Fearing
+Domenico Ferrari
+Robert Full
+Sanjam Garg
+Ali Ghodsi
+Paul R. Gray
+T. Kenneth Gustafson
+David A. Hodges
+Chenming Hu
+Joshua Hug
+Ali Javey
+Edward L. Keller
+Kurt Keutzer
+Tsu-Jae King Liu
+Andreas Kuehlmann
+Kam Y. Lau
+Edward A. Lee
+Luke Lee
+Edwin R. Lewis
+Allan J. Lichtenberg
+Michael A. Lieberman
+Michael Lustig
+Michel Maharbiz
+Kenneth K. Mei
+David G. Messerschmitt
+Robert G. Meyer
+Nelson Morgan
+Richard S. Muller
+Andrew R. Neureuther
+Ren Ng
+Clark Nguyen
+Ali Niknejad
+Borivoje Nikolic
+William G. Oldham
+Bruno Olshausen
+Abhay Parekh
+Shyam Parekh
+Kristofer Pister
+Elijah Polak
+Kameshwar Poolla
+Raluca Popa
+Jan M. Rabaey
+Chittoor V. Ramamoorthy
+Kannan Ramchandran
+Lawrence A. Rowe
+Jaijeet Roychowdhury
+Anant Sahai
+Sayeef Salahuddin
+Seth R. Sanders
+Alberto L. Sangiovanni-Vincentelli
+S. Shankar Sastry
+Steven E. Schwarz
+Sanjit A. Seshia
+Jerome R. Singer
+Costas J. Spanos
+Vladimir Stojanovic
+Michael Stonebraker
+Vivek Subramanian
+Aram J. Thomasian
+Claire Tomlin
+Stavros Tripakis
+David Tse
+Theodore Van Duzer
+Pravin Varaiya
+Alexandra von Meier
+Martin Wainwright
+Laura Waller
+Jean Walrand
+William J. Welch
+Richard M. White
+Adam Wolisz
+Eugene Wong
+Felix F. Wu
+Ming C. Wu
+Eli Yablonovitch
+Bin Yu
+Avideh Zakhor
+David Attwood
+Aydin Buluç
+Duncan Callaway
+Prabal Dutta
+Gerald Friedland
+Jack Gallant
+Joseph Gonzalez
+Moritz Hardt
+Brian Harvey
+Sergey Levine
+Chunlei Liu
+Rikky Muller
+Raluca Ada Popa
+Jonathan Ragan-Kelley
+Gireeja Ranade
+Somayeh Sojoudi
+Alan J. Smith, 2003
+Eugene Lawler, 1995 *
+Stuart J. Russell, 2016
+John F. Canny, 2002
+Stuart J. Russell, 2019
+David A. Patterson, 2006
+Ruzena Bajcsy, 2009
+Chunlei Liu, 2015
+Steven Conolly, 2015
+Elwyn R. Berlekamp, 2013 *
+David Attwood, 2006
+Thomas F. Budinger, 2009
+Michael Jordan, 2007
+Michael A. Lieberman, 2000
+Jose M. Carmena, 2010
+Michael Jordan, 2002
+Diogenes Angelakos, 1978 *
+Paul R. Gray, 2005
+A. Richard Newton, 1986 *
+Ming C. Wu, 2017
+Michael Jordan, 2010
+Satish Rao, 2012
+Thomas F. Budinger, 1984
+Murat Arcak, 2006
+Tsu-Jae King Liu, 2011
+Tsu-Jae King Liu, 1992
+Eli Yablonovitch, 2019
+Sanjit A. Seshia, 2016
+Thomas F. Budinger, 1996
+Bernd Sturmfels, 2017
+Lotfi A. Zadeh, 2017 *
+Constance Chang-Hasnain, 1991
+Somayeh Sojoudi, 2018
+Peter Bartlett, 2011
+Michael Jordan, 2014
+Vern Paxson, 2017
+Constance Chang-Hasnain, 1999
+S. Shankar Sastry, 2005
+Ivan P. Kaminow, 1997 *
+Stuart J. Russell, 2014
+David A. Patterson, 2016
+Ali Javey, 2015
+Kam Y. Lau, 2008
+Eli Yablonovitch, 2016
+Eli Yablonovitch, 1978
+Charles V. Shank, 2002 *
+John DeNero, 2015
+Thomas F. Budinger, 1989
+Ming C. Wu, 2007
+Chenming Hu, 2013
+Eli Yablonovitch, 1996
+Pravin Varaiya, 2008
+Lotfi A. Zadeh, 1993 *
+Murat Arcak, 2007
+Thomas F. Budinger, 1991
+Randy H. Katz, 1999
+James O'Brien, 2015
+David A. Patterson, 2019
+Jerrold Marsden, 2010 *
+Pieter Abbeel, 2016
+Michael Stonebraker, 2005
+Doug Tygar, 2015
+Alexandre Bayen, 2014
+Michael A. Lieberman, 2006
+Susan L. Graham, 2012
+Lotfi A. Zadeh, 1976 *
+Lotfi A. Zadeh, 1992 *
+Stuart J. Russell, 1994
+Bin Yu, 2018
+Martin Wainwright, 2014
+Alberto L. Sangiovanni-Vincentelli, 2012
+Avideh Zakhor, 2018
+Jose M. Carmena, 2011
+Ana Claudia Arias, 2017
+Beresford N. Parlett, 2010
+Charles V. Shank, 1990 *
+Sanjam Garg, 2013
+Lotfi A. Zadeh, 1999 *
+Jitendra Malik, 2018
+Otto J.M. Smith, 2003 *
+Manuel Blum, 2012
+S. Shankar Sastry, 2017
+Lotfi A. Zadeh, 1997 *
+Michael A. Lieberman, 1980
+Nelson Morgan, 2010
+Kristofer Pister, 2009
+Eli Yablonovitch, 2015
+Kam Y. Lau, 2009
+James Demmel, 1993
+David Attwood, 2016
+David A. Patterson, 2012
+Lotfi A. Zadeh, 2004 *
+Jitendra Malik, 2014
+Benjamin Recht, 2012
+Peter Bartlett, 2001
+Constance Chang-Hasnain, 2009
+Shafi Goldwasser, 1999
+Eli Yablonovitch, 2010
+Jerrold Marsden, 1990 *
+Constance Chang-Hasnain, 2014
+Beresford N. Parlett, 2006
+Laurent El Ghaoui, 2008
+Shafi Goldwasser, 2012
+Bernd Sturmfels, 2014
+Laura Waller, 2018
+Constance Chang-Hasnain, 2015
+Michael A. Lieberman, 2005
+Thomas F. Budinger, 2012
+Stuart J. Russell, 2015
+Bernd Sturmfels, 2010
+Constance Chang-Hasnain, 2018
+Jean Walrand, 1989
+Richard M. Karp, 1990
+David Tse, 2000 *
+Somayeh Sojoudi, 2016
+Somayeh Sojoudi, 2015
+Michael Ball
+David Bamman
+Christian Borgs
+Sarah Chasins
+Jennifer Chayes
+Alvin Cheung
+Natacha Crooks
+Hany Farid
+Shafi Goldwasser
+Nilah Ioannidis
+Jiantao Jiao
+Angjoo Kanazawa
+Jennifer Listgarten
+Jelani Nelson
+Aditya Parameswaran
+Niloufar Salehi
+Sophia Shao
+Jacob Steinhardt
+Avishay Tal
+David A. Wagner
+Nicholas Weaver
+Rediet Abebe
+Krste Asanovi\xc4\x87
+Lenore Blum
+Aydin Bulu\xc3\xa7
+Pamela Fox
+Nika Haghtalab
+Bj\xc3\xb6rn Hartmann
+Christopher Hunn
+James O&#039;Brien
+Carlo H. S\xc3\xa9quin
+Stella Yu
+Ahmed Alaa
+Venkatesan Guruswami
+Peyrin Kao
+Aditi Krishnapriyan
+Igor Mordatch
+John Wright
+Adam Yala
+Lisa Yan
+Justin Yokota
+Narges Norouzi
+Alane Suhr

@@ -1,0 +1,201 @@
+Antonelli, Charles J.
+Title
+Fax
+Arthur, Burks W.
+Office Address
+Atkins, III, Daniel E.
+Austin, Todd
+Bartlett, Sandra L.
+Birmingham, William P.
+Brehob, Mark
+Chen, Peter M.
+Chesney, David
+Compton, Kevin J.
+Conway, Lynn
+Davidson, Edward S
+Director, Stephen
+Durfee, Edmund H
+Eng, Jim
+Ford, Ann R.
+Furnas, George W.
+Galler, Bernard A.
+Gurevich, Yuri
+Harris, Jon
+Hayes, John P.
+Holland, John H.
+Honeyman, Peter
+Irani, Keki B.
+Jagadish, H V
+Jahanian, Farnam
+Jamin, Sugih
+Kaplan, Stephen
+Kieras, David E.
+Kluge, Karl C.
+Laird, John E.
+Lee, Sang W.
+Markov, Igor
+Mazumder, Pinaki
+Meyer, John F.
+Morgan, Andrew
+Mudge, Trevor
+Murray, Brian
+Noble, Brian
+Papaefthymiou, Marios
+Patel, Jignesh
+Pollack, Martha
+Prakash, Atul
+Radev, Dragomir
+Reinhardt, Steven K
+Rounds, Bill
+Sakallah, Karem A.
+Sayler, John
+Shahin, Ghassan
+Shin, Kang G.
+Soloway, Elliot
+Soparkar, Nandit
+Stout, Quentin F.
+Teorey, Toby
+Thomason, Richmond H.
+Tyson, Gary
+Wellman, Michael
+Winful, Herbert
+Winsor, Donald C.
+Burks, Arthur W.
+Furnas, George
+2110
+Research interest
+Ackerman, Mark S.
+Baveja, Satinder Singh
+Blaauw, David T.
+Brown, Richard B.
+Director, Stephen W.
+Dorf, Mary Lou
+Guskov, Igor
+Hero, Alfred O.
+Jensen, Viviane
+Kiskis, Daniel
+Koditschek, Dan
+Lafortune, Stephane
+Langona, Karen
+Liu, Mingyan
+Lokam, Satyanarayana
+Mahlke, Scott
+Sayler, John H.
+Shi, Yaoyun
+Smith, Matthew
+Teneketzis, Demosthenis
+Wakefield, Gregory H.
+Abney, Steven
+Antonelli, Charles J
+Atkins, Daniel E.
+Flinn, Jason
+Lewis, Richard L.
+Munson, Jr., David C.
+Polk, Thad A.
+Bertacco, Valeria
+Boyapati, Chandrasekhar
+Lafortune, St\xe9phane
+Mao, Zhuoqing Morley
+Markosian, Lee
+Strauss, Martin J.
+Weymouth, Terry
+Ernst, Dan
+Lafortune, Stéphane
+Reeves, Dan
+Adamic, Lada A.
+Brown, Richard B
+Adar, Eytan
+Atkins, Ella M.
+Bailey, Michael
+Cafarella, Michael J.
+Dutta, Prabal
+Essl, Georg
+Eustice, Ryan M.
+Halderman, J. Alex
+Kuipers, Benjamin
+LeFevre, Kristen R.
+Mei, Qiaozhu
+Miller, Carl Alexander
+Najafi, Khalil
+Narayanasamy, Satish
+Neuhoff, David L.
+Newman, Mark W.
+Nguyen, Long
+Olson, Edwin
+Pettie, Seth
+Ringenberg, Jeff S.
+Syed, Zeeshan H.
+Wenisch, Thomas F.
+Zhu, Ji
+Becher, William
+Das, Reetuparna
+Lee, Honglak
+Zhou, Shuheng
+
+DeOrio, Andrew (Drew) Whitehouse
+Dreslinski, Ron
+Fu, Kevin
+Mower Provost, Emily
+Newman, Mark W
+Schoenebeck, Grant
+Scott, Norman R.
+Abernethy, Jacob
+Deng, Jia
+DeOrio, Andrew W.
+Gibson, Jeremy
+Guan, YuanFang
+Mihalcea, Rada
+Mozafari, Barzan
+Modhrain, Maura Sile
+Paoletti, David Robert
+Tewari, Ambuj
+Wakefield, Gregory
+Associate Research Scientist UMTRI - Engineering Systems
+Wenisch, Thomas
+Wiens, Jenna
+Winsor, Donald
+Baveja, Satinder S.
+LEO Lecturer I
+Chowdhury, Mosharaf
+Associate Professor
+Corso, Jason
+Lecturer III
+Assistant Professor
+Lecturer IV
+Durfee, Edmund H.
+Guan, Yuanfang
+Hicks, Matthew
+Jagadish, HV
+Jenkins, Chad
+Johnson-Roberson, Matthew
+CSE Lecturer I
+Kamil, Amir
+Koutra, Danai
+Lasecki, Walter
+Madhyastha, Harsha
+Mars, Jason
+Miller, Carl A.
+LEO Lecturer II
+Peikert, Christopher
+Adjunct Assistant Professor
+Tang, Lingjia
+Van Hentenryck, Pascal
+Volkovich, Ilya
+Arthur, William
+LEO Intermittent Lecturer
+Dillahunt, Tawanna R.
+Dreslinski, Ronald
+Garcia, Hector
+CSE Intermittent Lecturer
+Jagadish, H.V.
+Kapritsos, Manos
+Kasikci, Baris
+Intermittent Lecturer
+Lukefahr, Andrew
+Oney, Stephen
+Sinha, Arunesh
+Adjunct Associate Professor
+Martin Strauss
+Manerkar, Yatin
+Makar, Maggie
+Ma, Lin
